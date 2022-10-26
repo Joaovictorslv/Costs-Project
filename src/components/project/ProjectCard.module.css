@@ -1,0 +1,93 @@
+.projectCard{
+    padding: 1em;
+    border: 1px solid #7a7a7a;
+    border-radius: 20px;
+    width: 24%;
+    margin: 0.5%;
+}
+
+.projectCard h3,
+.projectCard h4{
+    background-color: #222;
+    border-radius: 20px;
+    color: #ffbb33;
+    padding:.4em;
+    margin-bottom: 1.3em;
+    text-align: center;
+}
+
+.projectCard p{
+    color: #7a7a7a;
+    margin-bottom: 1em;
+}
+
+.projectCard p span{
+    font-weight: bold;
+}
+
+.categoryText{
+    display: flex;
+    align-items: center;
+}
+
+.categoryText span{
+    margin: 5px;
+    display: block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ccc;
+}
+
+.categoryText .infra{
+    background-color: #ffaebc;
+}
+
+.categoryText .art{
+    background-color: #a0e7e5;
+}
+
+.categoryText .design{
+    background-color: #ec9531;
+}
+
+.categoryText .development{
+    background-color: #7231ec;
+}
+
+.categoryText .planning{
+    background-color: #ec314a;
+}
+
+.projectCardsAction{
+    margin-top: 1.2em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.projectCardsAction a, .projectCardsAction button{
+    text-decoration: none;
+    border:none;
+    border-radius: 20px;
+    background-color: #fff;
+    color:#222;
+    font-size: .9em;
+    padding: .6em 1em;
+    cursor: pointer;
+    border: 1px solid #222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+}
+
+.projectCardsAction svg{
+    margin-right: .5em;
+}
+
+.projectCardsAction a:hover,
+.projectCardsAction button:hover{
+    background-color: #222;
+    color:#ffbb33;
+}

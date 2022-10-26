@@ -1,0 +1,83 @@
+{
+  "projects": [
+    {
+      "name": "Fisica 1",
+      "budget": "3000",
+      "category": {
+        "id": "4",
+        "name": "Development"
+      },
+      "cost": -55436,
+      "services": [
+        {
+          "name": "thrsdjf",
+          "cost": "44",
+          "description": "ehdfbhsdgmnfgmmfm",
+          "id": "57e39650-a43c-405b-92d7-0169b7d2d93b"
+        },
+        {
+          "description": "Estruturar o serviço visando as ferramentas necessárias, o comprimentos de protocolos e legislações vigentes constando também com a análise de viabilidade do projeto e sua execução em zonas mais remotas e afastadas das grandes metropoles. ",
+          "name": "text",
+          "cost": "454",
+          "id": "3b064742-5a22-4c53-b60f-76e74fbdfc1b"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Lhama",
+      "budget": "50",
+      "category": {
+        "id": "2",
+        "name": "Art"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Conception Industry",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "budget": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Simone Barros",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "budget": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Art"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Development"
+    },
+    {
+      "id": 5,
+      "name": "Planning"
+    }
+  ]
+}
